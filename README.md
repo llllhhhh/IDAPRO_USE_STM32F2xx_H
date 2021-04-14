@@ -1,0 +1,2 @@
+# IDAPRO_USE_STM32F2xx_H
+在IDA中使用stm32F2xx的头文件
